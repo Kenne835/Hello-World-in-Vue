@@ -1,0 +1,25 @@
+{
+  "name": "hello-world-in-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenne835/Hello-World-in-Vue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenne835/Hello-World-in-Vue/issues"
+  },
+  "homepage": "https://github.com/Kenne835/Hello-World-in-Vue#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "vue": "^2.4.4"
+  }
+}
